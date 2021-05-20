@@ -6,8 +6,8 @@ We constructed 3 separate time-resolved phylogenies to understand the possible o
 
 Check the phylogenetic trees here:
 - [Initial Phylogeny](https://nextstrain.org/community/nahid18/ncov-bd@main/initial)
-- [UK (B.1.1.7) variant Phylogeny](https://nextstrain.org/community/nahid18/ncov-bd@main/uk)
-- [South African (B.1.351) variant Phylogeny](https://nextstrain.org/community/nahid18/ncov-bd@main/sa)
+- [UK variant (B.1.1.7) Phylogeny](https://nextstrain.org/community/nahid18/ncov-bd@main/uk)
+- [South African variant (B.1.351) Phylogeny](https://nextstrain.org/community/nahid18/ncov-bd@main/sa)
 
 ## Cite following:
 
