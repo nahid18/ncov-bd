@@ -11,4 +11,4 @@ Check the phylogenetic trees here:
 
 ## Cite following:
 
-[Abdullah Al Nahid, Ajit Ghosh. Investigating the possible origin and transmission routes of SARS-CoV-2 genomes and variants of concern in Bangladesh. BioRxiv (2021), DOI:10.1101/2021.05.24.444482](https://doi.org/10.1101/2021.05.24.444482)
+Abdullah Al Nahid, Ajit Ghosh. Investigating the possible origin and transmission routes of SARS-CoV-2 genomes and variants of concern in Bangladesh. BioRxiv (2021), DOI:[10.1101/2021.05.24.444482](https://doi.org/10.1101/2021.05.24.444482)
