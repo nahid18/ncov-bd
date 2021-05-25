@@ -4,7 +4,7 @@ We constructed 3 separate time-resolved phylogenies in order to understand the p
 
 ## Interactive Phylogenetic Builds:
 
-Check the phylogenetic trees here:
+Check the phylogenetic builds here:
 - [Initial Phylogeny](https://nextstrain.org/community/nahid18/ncov-bd@main/initial)
 - [UK variant (B.1.1.7) Phylogeny](https://nextstrain.org/community/nahid18/ncov-bd@main/uk)
 - [South African variant (B.1.351) Phylogeny](https://nextstrain.org/community/nahid18/ncov-bd@main/sa)
